@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    margin-top: 24px;
+    
+}
+h1{
+
+    border: 2px solid brown;
+    font-family: cursive;
+    color: rgb(38, 84, 124);
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(70, 29, 204);
+}
+b{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(105, 94, 226);
+}
